@@ -1,4 +1,5 @@
-
+#include <stdio.h>
+#include <stdlib.h>
 
 // AES crypt the size of outData should equal to inData's size
 #define THROWFAIL(x) goto x
